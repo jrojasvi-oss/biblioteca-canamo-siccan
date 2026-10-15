@@ -8,7 +8,7 @@ Base de datos abierta de la revisión sistemática PRISMA 2020 sobre cáñamo (*
 
 ## Qué contiene
 
-958 registros elegibles de OpenAlex (2010–2026). Cada registro trae año, título, revista, países de los autores, temas, bloques de búsqueda, citas, tipo de acceso, idioma, DOI y enlace a OpenAlex. La columna *Usado en el artículo* marca las fuentes que aportaron datos a las tablas del artículo.
+974 registros: 958 elegibles de OpenAlex (2010–2026) y 16 fuentes de una búsqueda dirigida sobre sanidad (plagas, enfermedades, *Fusarium*, *Pythium*, MIPE y control biológico) y economía (costos y sistema agroecológico frente a convencional), agregadas el 14/10/2026. Cada registro trae año, título, revista, países de los autores, temas, bloques de búsqueda, citas, tipo de acceso, idioma, DOI y enlace a OpenAlex. La columna *Usado en el artículo* marca las fuentes que aportaron datos al artículo (versión 9).
 
 ## Método
 
