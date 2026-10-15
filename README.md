@@ -1,5 +1,7 @@
 # Biblioteca Cáñamo SICCAN
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23384254.svg)](https://doi.org/10.5281/zenodo.23384254)
+
 Base de datos abierta de la revisión sistemática PRISMA 2020 sobre cáñamo (*Cannabis sativa* L.) para grano proteico, hecha por el **Semillero SICCAN** de la Universidad Nacional de Colombia, Sede Palmira, dentro del proyecto Hermes 59460 con la asociación campesina **AURACOL** (Sevilla, Valle del Cauca).
 
 - **Página de consulta:** `index.html` (con GitHub Pages queda en `https://jrojasvi-oss.github.io/biblioteca-canamo-siccan/`). Tiene buscador, filtros por tema, bloque, año, acceso e idioma, y descarga en CSV.
@@ -24,7 +26,7 @@ Flujo: 8202 registros → 7632 únicos → 958 elegibles. El detalle de las cade
 
 ## Cómo citar
 
-SICCAN (2026). *Biblioteca Cáñamo SICCAN: registros de la revisión sistemática* [Base de datos]. Universidad Nacional de Colombia, Sede Palmira.
+SICCAN (2026). *Cáñamo para grano en el trópico andino: datos de la revisión sistemática, rangos objetivo, sanidad y economía (SICCAN–AURACOL)* (versión 1) [Conjunto de datos]. Zenodo. https://doi.org/10.5281/zenodo.23384254
 
 ## Licencia
 
