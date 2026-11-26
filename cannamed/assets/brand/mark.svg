@@ -1,0 +1,13 @@
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" width="1024" height="1024">
+<title>Medical cannabis monogram</title>
+<rect width="1024" height="1024" fill="#0F2A1F" />
+<g id="monogram" fill="#F3EEE2">
+<path id="seven-point-leaf" fill-rule="evenodd" d="M512 94 C434 205 417 335 456 467 C392 363 297 307 180 284 C220 410 275 495 366 548 C270 520 180 538 104 583 C214 657 321 677 421 643 C348 685 299 736 268 797 C373 782 451 745 494 688 L530 688 C577 743 645 774 733 779 C705 720 659 676 603 643 C706 677 812 655 920 583 C844 538 754 520 658 548 C749 495 804 410 844 284 C727 307 632 363 568 467 C607 335 590 205 512 94 Z M476 433 L476 512 L397 512 L397 584 L476 584 L476 663 L548 663 L548 584 L627 584 L627 512 L548 512 L548 433 Z" />
+<path id="stem" d="M512 687 C504 807 543 877 637 894" fill="none" stroke="#F3EEE2" stroke-width="20" stroke-linecap="round" />
+<g id="molecule" fill="none" stroke="#F3EEE2" stroke-width="16" stroke-linejoin="miter">
+<path d="M694 802 L749 834 L749 898 L694 930 L639 898 L639 834 Z" />
+<path d="M749 834 L804 801" stroke-linecap="round" />
+</g>
+<circle id="molecule-terminal" cx="811" cy="797" r="20" />
+</g>
+</svg>
